@@ -1,17 +1,17 @@
 {
-  "code": "xi-you-city",
+  "code": "city-xiyou",
   "name": "都市西游记",
   "style": {
-    "art_style": "中低多边形块面卡通风格，70%硬边+30%圆润曲面，参考我的世界地下城造型逻辑，3头身西游神话角色，半还原现实城市地标，奥特曼式外星夸张怪兽",
-    "mood": "都市热血战斗感，冷灰环境配暖橙主光，高对比硬边光影",
-    "palette": "块面基底灰#8C8C8C、朱砂主色#C82E2E、怪兽基底绿#3A5A40、暖金高光#F2C14E、藏青暗部#2D3748、警示橙#FF7A00、皮肤米黄#E6C7A3",
-    "quality": "低模块面风格，硬边明暗分界，无柔边渐变，纹理简洁"
+    "art_style": "低多边形方块风，3头身Q版，80%硬边20%有机曲面，严格硬边色块",
+    "mood": "明快高饱和，昼夜双场景，统一顶偏右45度主光，冷底补+暖轮廓光",
+    "palette": "战甲红#D92B2B、金箍黄#E6B863、特摄绿#39FF14、天空蓝#4A90E2、浅灰#D0D0D0、深灰#4A4A4A",
+    "quality": "中精度，2k纹理，基础色+法线贴图，非PBR"
   },
   "defaults": {
     "image_size": 2048,
     "texture_resolution": "2k",
-    "enable_pbr": true,
-    "target_polycount": 15000,
+    "enable_pbr": false,
+    "target_polycount": 5000,
     "pose_mode": "t-pose",
     "height_meters": 1.7
   },
