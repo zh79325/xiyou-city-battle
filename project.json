@@ -2,22 +2,23 @@
   "code": "city-xiyou",
   "name": "都市西游记",
   "style": {
-    "art_style": "低多边形方块风，3头身Q版，80%硬边20%有机曲面，严格硬边色块",
-    "mood": "明快高饱和，昼夜双场景，统一顶偏右45度主光，冷底补+暖轮廓光",
-    "palette": "战甲红#D92B2B、金箍黄#E6B863、特摄绿#39FF14、天空蓝#4A90E2、浅灰#D0D0D0、深灰#4A4A4A",
-    "quality": "中精度，2k纹理，基础色+法线贴图，非PBR"
+    "art_style": "低多边形块面风（参考我的世界：地下城），中等卡通6.5/10，西游角色+特摄怪兽+现代地标统一造型语言，硬边块面占比75%",
+    "mood": "白日晴空明亮冷日光，中高对比，清晰明快，轮廓明确",
+    "palette": "西游金#E8B923、特摄银#C8CDD6、警示红#D93A2B、都市灰#5A6470、能量绿#39E07C、深空蓝#1E3A5F",
+    "quality": "基础PBR（金属度+粗糙度通道），2K纹理，低面数，无写实细节"
   },
   "defaults": {
     "image_size": 2048,
     "texture_resolution": "2k",
-    "enable_pbr": false,
-    "target_polycount": 5000,
+    "enable_pbr": true,
+    "target_polycount": 18000,
     "pose_mode": "t-pose",
-    "height_meters": 1.7
+    "height_meters": 1.4
   },
   "pose_template": null,
   "art_bible": "art-bible.md",
   "review_mode": "lean",
   "conversation_audit": true,
-  "stage": "ready"
+  "stage": "ready",
+  "state": "P0_project_shaping"
 }
