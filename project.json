@@ -1,24 +1,8 @@
 {
-  "code": "city-xiyou",
+  "code": "xiyou-city",
+  "conversationAudit": true,
   "name": "都市西游记",
-  "style": {
-    "art_style": "低多边形块面风（参考我的世界：地下城），中等卡通6.5/10，西游角色+特摄怪兽+现代地标统一造型语言，硬边块面占比75%",
-    "mood": "白日晴空明亮冷日光，中高对比，清晰明快，轮廓明确",
-    "palette": "西游金#E8B923、特摄银#C8CDD6、警示红#D93A2B、都市灰#5A6470、能量绿#39E07C、深空蓝#1E3A5F",
-    "quality": "基础PBR（金属度+粗糙度通道），2K纹理，低面数，无写实细节"
-  },
-  "defaults": {
-    "image_size": 2048,
-    "texture_resolution": "2k",
-    "enable_pbr": true,
-    "target_polycount": 18000,
-    "pose_mode": "t-pose",
-    "height_meters": 1.4
-  },
-  "pose_template": null,
-  "art_bible": "art-bible.md",
-  "review_mode": "lean",
-  "conversation_audit": true,
-  "stage": "ready",
-  "state": "P0_project_shaping"
+  "projectId": "01a07176-93e9-70d0-a1cd-94e21893779c",
+  "schemaVersion": 2,
+  "state": "ready"
 }
