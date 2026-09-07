@@ -1,1 +1,2 @@
 *.png binary
+characters/玩家/孙悟空/model/孙悟空.glb filter=lfs diff=lfs merge=lfs -text
