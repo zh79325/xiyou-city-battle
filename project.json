@@ -1,8 +1,8 @@
 {
-  "code": "xiyou-city",
+  "code": "xiyou-city-battle",
   "conversationAudit": true,
   "name": "都市西游记",
-  "projectId": "01a07a5a-ef9d-7b43-915a-47959db81aa7",
+  "projectId": "01a07f68-dcbc-7e51-a5ab-08382ec88df5",
   "schemaVersion": 2,
   "state": "ready"
 }

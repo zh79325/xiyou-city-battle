@@ -1,14 +1,8 @@
 {
-  "id": "da835d78-34ea-49f2-b366-e93824316ab0",
+  "id": "7f0d875e-590d-412f-8cce-f6d808e147bf",
   "name": "孙悟空",
-  "state": "s5_views_confirmed",
+  "state": "s1_spec_confirmed",
   "specPath": "characters/玩家/孙悟空/docs/角色定稿.md",
-  "renderPath": "characters/玩家/孙悟空/images/render-final.png",
-  "viewPaths": {
-    "back": "characters/玩家/孙悟空/images/views-back.png",
-    "front": "characters/玩家/孙悟空/images/views-front.png",
-    "left": "characters/玩家/孙悟空/images/views-left.png",
-    "quad": "characters/玩家/孙悟空/images/views-final.png",
-    "right": "characters/玩家/孙悟空/images/views-right.png"
-  }
+  "renderPath": null,
+  "viewPaths": {}
 }
